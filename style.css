@@ -78,5 +78,5 @@ th, td {
 
 figcaption {
   /* 文字を小さくする */
-  font-size: 0.8em; /* または 12px などの具体的なサイズ */
+  font-size: 0.5em; /* または 12px などの具体的なサイズ */
 }        
